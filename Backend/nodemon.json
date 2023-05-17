@@ -1,0 +1,9 @@
+{
+  "env": {
+    "PORT": "8000",
+    "HOST": "localhost",
+    "USER": "postgres",
+    "PASSWORD": "password",
+    "DATABASE": "store"
+  }
+}
